@@ -5,6 +5,7 @@ This repository is the official implementation of
 
 <div align="center">
     <img src="introduction.jpg" style="width:30vw" alt="Model"/>
+    <br>
     <span>An illustration of our AbsPyramid benchmark.</span>
 </div>
 
