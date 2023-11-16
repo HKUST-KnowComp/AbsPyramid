@@ -35,11 +35,11 @@ pip install -r requirements.txt
 ## Datasets
 ### AbsPyramid
 We build the AbsPyramid benchmark with two tasks: abstraction detection and abstraction generation.
-There data are released on [HuggingFace](https://huggingface.co/datasets/ZhaoweiWang/AbsPyramid)
+There data are released on [HuggingFace Hub](https://huggingface.co/datasets/ZhaoweiWang/AbsPyramid)
 
 In each of "Detection" and "Generation," we put data of all relations in the ```merged_dataset``` folder.
 Also, we put data of Noun-Entail, Verb-Entail, and Event-Entail in the ```noun_dataset```, ```verb_dataset```,
-and ```event_dataset``` folders, respectively.
+and ```event_dataset``` folders, respectively. All licenses are subject to their original releases.
 
 ### Other sources
 We also conduct experiments on Levy/Holt dataset and AbstractATOMIC dataset.
