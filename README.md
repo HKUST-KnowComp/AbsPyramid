@@ -39,7 +39,7 @@ There data are released on [HuggingFace Hub](https://huggingface.co/datasets/Zha
 
 In each of "Detection" and "Generation," we put data of all relations in the ```merged_dataset``` folder.
 Also, we put data of Noun-Entail, Verb-Entail, and Event-Entail in the ```noun_dataset```, ```verb_dataset```,
-and ```event_dataset``` folders, respectively. All licenses are subject to their original releases.
+and ```event_dataset``` folders, respectively.
 
 ### Other sources
 We also conduct experiments on Levy/Holt dataset and AbstractATOMIC dataset.
@@ -47,7 +47,7 @@ The original links are [Levy/Holt dataset](https://github.com/mjhosseini/entgrap
 and [AbstractATOMIC](https://github.com/HKUST-KnowComp/atomic-conceptualization).
 To be consistent when loading data, we also transform their datasets into the jsonl format of
 our dataset: [Levy/Holt](https://huggingface.co/datasets/ZhaoweiWang/Levy_Holt_dataset_jsonl) and
-[AbstractATOMIC](https://huggingface.co/datasets/ZhaoweiWang/AbstractATOMIC).
+[AbstractATOMIC](https://huggingface.co/datasets/ZhaoweiWang/AbstractATOMIC). All licenses are subject to their original releases.
 
 ## Training Models
 ### Models for Abstraction Detection
