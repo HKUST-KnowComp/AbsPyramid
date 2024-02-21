@@ -3,8 +3,12 @@
 This repository is the official implementation of 
 [AbsPyramid: Benchmarking the Abstraction Ability of Language Models with a Unified Entailment Graph](https://arxiv.org/abs/2311.09174).
 
+<h5 align="center">
+  
 [![Project License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](https://github.com/HKUST-KnowComp/AbsPyramid/blob/main/LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-380/)
+
+</h5>
 
 <div align="center">
     <img src="introduction.jpg" style="width:30vw" alt="Model"/>
