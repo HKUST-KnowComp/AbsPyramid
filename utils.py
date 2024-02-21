@@ -107,7 +107,7 @@ def average_precision_score(y_true, y_score, pos_label=1):
     # print(len(precision), precision)
     # print(len(recall), recall)
     recall_diff, precision = np.diff(recall), np.array(precision)[:-1]
-    high_precision_mask = precision >= 0.5
+    high_precision_mask = precision > 0.5
     recall_diff, precision = recall_diff[high_precision_mask], precision[high_precision_mask]
     # print(len(recall_diff), recall_diff)
     # print(len(precision), precision)
