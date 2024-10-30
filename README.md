@@ -7,6 +7,7 @@ This repository is the official implementation of
   
 [![Project License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](https://github.com/HKUST-KnowComp/AbsPyramid/blob/main/LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-380/)
+[![OpenCompass](https://opencompass.oss-cn-shanghai.aliyuncs.com/image/compass-hub/badge.svg)](https://hub.opencompass.org.cn/dataset-detail/AbsPyramid)
 
 </h5>
 
